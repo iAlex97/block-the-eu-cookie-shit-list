@@ -6275,6 +6275,7 @@ zonaforo.meristation.com##.inner
 ###optin-optin-header
 ###optinCookie
 ###optinckycontainer
+###onetrust-banner-sdk
 ###or_cookie
 ###orejime
 ###os_app_cookiewarn
@@ -11314,6 +11315,7 @@ zonaforo.meristation.com##.inner
 ##.on.cookie
 ##.once-upon-ga-consent
 ##.one-alert--cookie
+##.onetrust-pc-dark-filter
 ##.oneindia-cookie-notification
 ##.online-cookie-consent
 ##.onp-cookie-consent-container
@@ -11325,6 +11327,7 @@ zonaforo.meristation.com##.inner
 ##.optanon-alert-box-wrapper
 ##.optin-stats
 ##.optinCookie
+##.optanon-alert-box-wrapper
 ##.or-cookie__banner
 ##.orakelAdvice
 ##.orejime-Notice
