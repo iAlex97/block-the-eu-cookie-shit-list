@@ -116,6 +116,7 @@
 ###cookie-message
 ###cookie-message-container
 ###cookie-modal-bg
+###cookie-modal-12345
 ###cookie-msg
 ###cookie-notice
 ###cookie-notification
@@ -394,6 +395,7 @@
 ###kuki
 ###lc_cookies-main
 ###lca-cookie-notification
+###lsp_cookie_bar
 ###ma > .ckch
 ###message-bar-cookie-notice
 ###mktg_Cookie_Wrap
@@ -633,6 +635,7 @@
 ##.popup-cookie
 ##.printNone.usermsgCookie
 ##.privacyhint
+##.privacy-badger
 ##.privacy-controls-banner
 ##.qb-cookielaw-bar
 ##.qc-cmp-ui-container.qc-cmp-showing
