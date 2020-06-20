@@ -452,6 +452,7 @@
 ###usrConsent
 ###v-cookielaw
 ###viewlet-cookiepolicy
+###vlnt-cookie-consent
 ###warning_cookie
 ###website-cookies
 ###wk_cookiebar
