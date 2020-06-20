@@ -429,6 +429,7 @@
 ###privacy-consent
 ###privacyPolicyLayerN
 ###privacy_cookie
+###privacy_controls_banner
 ###promoTb > tbody > tr:nth-of-type(1)
 ###pronamic_cookie_holder
 ###rbiCookiePolicy_pushDownBoxWrapper
@@ -9151,6 +9152,7 @@ zonaforo.meristation.com##.inner
 ##.cookie__accept
 ##.cookie__banner
 ##.cookie__bar
+##.cookie__block.cookie
 ##.cookie__consent
 ##.cookie__container
 ##.cookie__footer
@@ -11327,7 +11329,6 @@ zonaforo.meristation.com##.inner
 ##.optanon-alert-box-wrapper
 ##.optin-stats
 ##.optinCookie
-##.optanon-alert-box-wrapper
 ##.or-cookie__banner
 ##.orakelAdvice
 ##.orejime-Notice
