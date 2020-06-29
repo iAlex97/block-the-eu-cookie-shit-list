@@ -10850,6 +10850,7 @@ zonaforo.meristation.com##.inner
 ##.k4-cookie
 ##.kali-cc-bandeau
 ##.kb-ck-bar-notify-block
+##.kb-content
 ##.keksbar
 ##.kia-cookie
 ##.kjfCookieInfoBox
