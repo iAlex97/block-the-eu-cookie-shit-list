@@ -10644,6 +10644,7 @@ zonaforo.meristation.com##.inner
 ##.it_privacy_notice
 ##.itbl-c-cookies-consent
 ##.iubenda-ibadge
+##.iubenda-cs-content
 ##.iv-ui-website-cookie-compliance
 ##.iw-cookie-overlay
 ##.iw-cookie-window
