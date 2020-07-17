@@ -4103,6 +4103,7 @@ zonaforo.meristation.com##.inner
 ###cookieregels
 ###cookiereminder
 ###cookiereports-badge
+###cookies
 ###cookies-acc
 ###cookies-accept
 ###cookies-accept-bar
@@ -8249,6 +8250,7 @@ zonaforo.meristation.com##.inner
 ##.component-cookie-alert
 ##.component-cookie-notification
 ##.component-cookiealert
+##.component-cookies-layer
 ##.component-cookies-message
 ##.component-cookies-popup
 ##.component_eu_eprivacy_option
@@ -9516,6 +9518,7 @@ zonaforo.meristation.com##.inner
 ##.cookies-banner-container
 ##.cookies-banner-enabled
 ##.cookies-banner-wrap
+##.cookies-banner-wrapper
 ##.cookies-bar
 ##.cookies-bar-new
 ##.cookies-bloc
@@ -10318,6 +10321,7 @@ zonaforo.meristation.com##.inner
 ##.gbi-cookiebar
 ##.gbp-cookieinfo
 ##.gc-window[aria-label*="gdpr"]
+##.gcdr_container
 ##.gcprivacy-hint
 ##.gdbr_banner
 ##.gdbr_banner_wrapper
@@ -10382,6 +10386,7 @@ zonaforo.meristation.com##.inner
 ##.gdpr-disclaimer
 ##.gdpr-disclaimer__overlay
 ##.gdpr-eu
+##.gdpr-footer-alert-box-wrapper
 ##.gdpr-headband
 ##.gdpr-header
 ##.gdpr-hellobar
