@@ -437,6 +437,7 @@
 ###promoTb > tbody > tr:nth-of-type(1)
 ###pronamic_cookie_holder
 ###rbiCookiePolicy_pushDownBoxWrapper
+###rl-privacy-notice-top
 ###rtl_cookie_small
 ###scc-consent
 ###site-cookie-policy
@@ -2882,6 +2883,7 @@ zonaforo.meristation.com##.inner
 ###cookie-nb-msg
 ###cookie-norm
 ###cookie-note
+###cookie-noti
 ###cookie-notice
 ###cookie-notice-background
 ###cookie-notice-banner
@@ -9335,6 +9337,7 @@ zonaforo.meristation.com##.inner
 ##.cookie_wrapper-bottom
 ##.cookie_wrp
 ##.cookieabfrage
+##.cookie-noti
 ##.cookieaccept
 ##.cookieaccept_wrapper
 ##.cookieacceptance
@@ -11667,6 +11670,7 @@ zonaforo.meristation.com##.inner
 ##.rltcp_information_cookie
 ##.rlx-cookie
 ##.rlx-cookie-bar
+##.rl-privacy-notice
 ##.rm-cookie
 ##.rm-cookies-belt
 ##.rm-cookies-ol
