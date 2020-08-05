@@ -64,7 +64,6 @@
 ###box-cookie
 ###boxZgodaNaCookie
 ###box_cookies_error
-###ca_banner
 ###cadre_alert_cookies
 ###cartelcookielegal
 ###catapult-cookie-bar
@@ -11074,6 +11073,7 @@ zonaforo.meristation.com##.inner
 ##.mod_cookiebar_optin
 ##.mod_cookieconfirmation
 ##.mod_cookies
+##.mod_cookiesaccept
 ##.modal-accept-cookies
 ##.modal-bannercookies
 ##.modal-box-cookie-policy-message
