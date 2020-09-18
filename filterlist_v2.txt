@@ -5642,6 +5642,7 @@ zonaforo.meristation.com##.inner
 ###ilovecookies
 ###imPolicycookiemessage
 ###im_cookie_message
+###im_cookie_consent_modal
 ###implicitCookieModal
 ###improove-cookies
 ###indication_cookie
@@ -10613,6 +10614,7 @@ zonaforo.meristation.com##.inner
 ##.imPolicycookiemessage
 ##.imc-cookie
 ##.important-banner--cookies
+##.im-cookie-consent-modal
 ##.in2-modal
 ##.in2-modal__blackbox
 ##.index__cookie__body
